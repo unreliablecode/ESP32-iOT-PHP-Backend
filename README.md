@@ -1,4 +1,3 @@
-```markdown
 # ESP32-iOT-PHP-Backend
 
 This project demonstrates how to use an ESP32 microcontroller with MicroPython to monitor temperature and control relays through a PHP-based backend. The ESP32 sends temperature data to a PHP script and retrieves relay states to control four relays. A simple web interface allows users to view temperature data and control relays.
@@ -68,6 +67,3 @@ For any questions or contributions, please contact [unreliablecode](https://gith
 - [MicroPython](https://micropython.org/)
 - [PHP](https://www.php.net/)
 - [ESP32](https://www.espressif.com/en/products/socs/esp32)
-```
-
-Feel free to adjust any sections or add additional details specific to your project.
