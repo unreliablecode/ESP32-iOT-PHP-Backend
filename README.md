@@ -1,5 +1,3 @@
-Here’s a `README.md` file for your project:
-
 ```markdown
 # ESP32-iOT-PHP-Backend
 
